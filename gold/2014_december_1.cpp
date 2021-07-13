@@ -1,5 +1,5 @@
 /*
-  Author : Pranshu
+  Author : inluminas
   Problem: Guard Mark
 */
 #include"bits/stdc++.h"
