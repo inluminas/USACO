@@ -18,6 +18,7 @@ ll dp[lmt],weight[lmt],height[lmt];
 
 int main(){
 	fastio;
+	
 
 	//freopen("guard.in","r",stdin);
 	//freopen("guard.out","w",stdout);
