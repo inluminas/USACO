@@ -1,5 +1,5 @@
 /*
-  Author : Pranshu
+  Author : inluminas
   Problem: Why Did the Cow Cross the Road
 */
 #include"bits/stdc++.h"
